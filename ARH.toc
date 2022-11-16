@@ -1,0 +1,13 @@
+## Interface: 100000
+## Title: Ares Raid Helper
+## Author: 猥琐图图
+## Notes: Ares Raid Helper
+## OptionalDeps: ExRT
+## SavedVariables: VMRT
+## Version: 1000
+
+core.lua
+ExLib.lua
+embeds.xml
+Functions.lua
+ExCD2.lua
